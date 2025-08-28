@@ -148,12 +148,13 @@ async def on_ready():
   await client.change_presence(activity=discord.Game       (name= "darkness.py"))
 
 print('''
-  ____________    ___    __
- /_  __/ ____/   / / |  / /
-  / / / __/ __  / /| | / / 
- / / / /___/ /_/ / | |/ /  
-/_/ /_____/\____/  |___/   
-https://github.com/tejvz
+                         _
+__      ____ _ _ __ _ __(_) ___  _ __ ___
+\ \ /\ / / _` | '__| '__| |/ _ \| '__/ __|
+ \ V  V / (_| | |  | |  | | (_) | |  \__ \
+  \_/\_/ \__,_|_|  |_|  |_|\___/|_|  |___/
+  
+https://github.com/CodeXownz
 
 ''')
 
