@@ -9,7 +9,7 @@ __      ____ _ _ __ _ __(_) ___  _ __ ___
 apt install git -y &&
 apt install python -y &&
 git clone https://github.com/Codexownz/NUKER-BOT.git &&
-cd NUKER-BOT &&
+cd NUKER-BOT 
 
 ### TO INSTALL PIP 
 pip install discord
